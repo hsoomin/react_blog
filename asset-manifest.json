@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_blog/static/css/main.cba32742.css",
+    "main.js": "/react_blog/static/js/main.baab75e3.js",
+    "index.html": "/react_blog/index.html",
+    "main.cba32742.css.map": "/react_blog/static/css/main.cba32742.css.map",
+    "main.baab75e3.js.map": "/react_blog/static/js/main.baab75e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba32742.css",
+    "static/js/main.baab75e3.js"
+  ]
+}
